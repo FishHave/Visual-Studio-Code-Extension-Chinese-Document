@@ -1,4 +1,4 @@
-# Visual Studio Code 中文文档
+# Visual Studio Code 扩展中文文档
 ## 1 概述
 本文档为 VSCode 扩展文档的中文自译版
 所有人都可以提交翻译，您也可以将本文档下载并修改
