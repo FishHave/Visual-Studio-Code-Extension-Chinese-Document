@@ -1,3 +1,4 @@
 {
-    "references.preferredLocation": "view"
+    "references.preferredLocation": "view",
+    "editor.mouseWheelZoom": true
 }
